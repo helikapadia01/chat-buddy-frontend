@@ -1,0 +1,1 @@
+export const API_BASE_URL = 'https://chat-buddy-backend-n7gb.onrender.com/api/v1/';
